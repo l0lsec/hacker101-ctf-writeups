@@ -1,6 +1,6 @@
 # Hacker101 CTF write-ups
 
-Collection of notes and solutions for **Hacker101** web and Android challenges. Each subdirectory is self-contained.
+Collection of notes and solutions for **Hacker101** challenges. Each subdirectory is self-contained.
 
 > **Instances:** Hacker101 uses per-session hosts (`*.ctf.hacker101.com`). Flag **bodies** are unique to each deployment; the **techniques** in each write-up apply to any fresh instance of the same challenge.
 
