@@ -12,6 +12,7 @@ Collection of notes and solutions for **Hacker101** web and Android challenges. 
 | Grinch Networks | 12 | [grinch-networks](grinch-networks/) |
 | Thermostat (Android) | 2 | [thermostat-android](thermostat-android/) |
 | OAuth (Android) | 2 | [oauth-android](oauth-android/) · [standalone repo](https://github.com/l0lsec/hacker101-oauth-android-ctf) |
+| Webdev (Android + web) | 2 | [webdev](webdev/) |
 
 ---
 
