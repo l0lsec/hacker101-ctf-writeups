@@ -6,6 +6,7 @@ Collection of notes and solutions for **Hacker101** web and Android challenges. 
 
 | Challenge | Flags | Directory |
 |-----------|------:|-----------|
+| RTFM | 8 | [rtfm](rtfm/) |
 | BugDB v1 | 1 | [bugdb_v1](bugdb_v1/) |
 | BugDB v2 | 1 | [bugdb_v2](bugdb_v2/) |
 | Rend Asunder | 3 (1 documented) | [rend_asunder](rend_asunder/) |
