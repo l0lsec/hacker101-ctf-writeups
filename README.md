@@ -1,11 +1,12 @@
 # Hacker101 CTF write-ups
 
-Collection of notes and solutions for **Hacker101** challenges. Each subdirectory is self-contained.
+Collection of notes and solutions for **Hacker101** web and Android challenges. Each subdirectory is self-contained.
 
 > **Instances:** Hacker101 uses per-session hosts (`*.ctf.hacker101.com`). Flag **bodies** are unique to each deployment; the **techniques** in each write-up apply to any fresh instance of the same challenge.
 
 | Challenge | Flags | Directory |
 |-----------|------:|-----------|
+| BugDB v1 | 1+ | [bugdb_v1](bugdb_v1/) |
 | Rend Asunder | 3 (1 documented) | [rend_asunder](rend_asunder/) |
 | Photogenic (Level 0) | 1 | [photogenic-v1](photogenic-v1/) |
 | Micro-CMS | 4 | [micro-cms](micro-cms/) |
