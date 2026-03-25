@@ -13,6 +13,7 @@ Collection of notes and solutions for **Hacker101** web and Android challenges. 
 | Thermostat (Android) | 2 | [thermostat-android](thermostat-android/) |
 | OAuth (Android) | 2 | [oauth-android](oauth-android/) · [standalone repo](https://github.com/l0lsec/hacker101-oauth-android-ctf) |
 | Webdev (Android + web) | 2 | [webdev](webdev/) |
+| Intentional Exercise / Level 13 (Android) | 1 | [level13-intentional-exercise](level13-intentional-exercise/) |
 
 ---
 
