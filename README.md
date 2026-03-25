@@ -6,6 +6,7 @@ Collection of notes and solutions for **Hacker101** challenges. Each subdirector
 
 | Challenge | Flags | Directory |
 |-----------|------:|-----------|
+| Rend Asunder | 3 (1 documented) | [rend_asunder](rend_asunder/) |
 | Photogenic (Level 0) | 1 | [photogenic-v1](photogenic-v1/) |
 | Micro-CMS | 4 | [micro-cms](micro-cms/) |
 | Postbook | 7 | [postbook](postbook/) |
