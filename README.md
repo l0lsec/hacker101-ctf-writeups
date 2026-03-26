@@ -6,6 +6,7 @@ Collection of notes and solutions for **Hacker101** web and Android challenges. 
 
 | Challenge | Flags | Directory |
 |-----------|------:|-----------|
+| OSU CTF (OSUSEC) | 1 | [osu-ctf](osu-ctf/) |
 | Grayhatcon CTF (HackerBay) | 4 | [grayhatcon-ctf](grayhatcon-ctf/) |
 | RTFM | 8 | [rtfm](rtfm/) |
 | BugDB v1 | 1 | [bugdb_v1](bugdb_v1/) |
