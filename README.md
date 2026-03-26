@@ -12,7 +12,8 @@ Collection of notes and solutions for **Hacker101** web and Android challenges. 
 | BugDB v2 | 1 | [bugdb_v2](bugdb_v2/) |
 | Rend Asunder | 3 (1 documented) | [rend_asunder](rend_asunder/) |
 | Photogenic (Level 0) | 1 | [photogenic-v1](photogenic-v1/) |
-| Micro-CMS | 4 | [micro-cms](micro-cms/) |
+| Micro-CMS v2 | 3 | [micro-cms-v2](micro-cms-v2/) |
+| Micro-CMS v1 | 4 | [micro-cms](micro-cms/) |
 | Postbook | 7 | [postbook](postbook/) |
 | Grinch Networks | 12 | [grinch-networks](grinch-networks/) |
 | Thermostat (Android) | 2 | [thermostat-android](thermostat-android/) |
