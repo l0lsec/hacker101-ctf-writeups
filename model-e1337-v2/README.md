@@ -5,7 +5,7 @@ Two separate wins on this challenge:
 1. **Flag in source (XXE / “flag0” style):** XML external entity via **`set-config`** → read **`main.py`** (flag often in a comment).
 2. **Unlock flag (crypto):** Predict the **64-bit** rolling code from **`rng`** logic and POST it to **`/unlock`** (see [7Rocky — Model E1337 v2](https://7rocky.github.io/en/ctf/hacker101ctf/model-e1337-v2---hardened-rolling-code-lock/)).
 
-> Replace **`HOST`** with your instance, e.g. `https://88e6b7e79a5d2bb31f542c6b62f35c07.ctf.hacker101.com`.
+> Replace **`HOST`** with your instance, e.g. `https://03ff7f9964e7cfa249973abb684db24f.ctf.hacker101.com`.
 
 ---
 
@@ -82,6 +82,8 @@ Use a GF(2) / matrix approach so that **one** such code is enough to recover sta
 ```bash
 python3 solve_v2.py 'https://YOUR_INSTANCE.ctf.hacker101.com'
 ```
+
+Example session: `https://03ff7f9964e7cfa249973abb684db24f.ctf.hacker101.com`
 
 1. `POST /unlock` with any wrong numeric `code` (e.g. `0`) and read **`Expected <n>`** from the body (the server sleeps ~5s per try).
 2. The script recovers a consistent internal state, advances it past the server’s `next(64)`, and **`POST`s the next code** — response should be `Unlocked successfully` plus the flag.
