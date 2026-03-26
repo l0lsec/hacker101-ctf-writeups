@@ -29,11 +29,11 @@ curl -sS --http1.1 "$BASE/api/action.php?act=getemail" \
   -H 'X-SAFEPROTECTION: enNlYW5vb2Zjb3Vyc2U='
 ```
 
-**Example (this instance):** JSON includes email and flag:
+**Example (this instance):** JSON includes email and a flag string ending in **`$`** only:
 
-`^FLAG^dee5022e8ceb9c164abf2f3c23e9d7dd4be95899d6b1d985f0426bb04044e47e$FLAG$`
+`^FLAG^dee5022e8ceb9c164abf2f3c23e9d7dd4be95899d6b1d985f0426bb04044e47e$`
 
-*(Some deployments return JSON with a truncated flag suffix; append **`$FLAG$`** if needed, per the reference notes.)*
+Submit **`$FLAG$`** on the scoreboard if the platform expects the full wrapper (see [8r0wn13’s note](https://github.com/8r0wn13/hacker101_ctf/blob/main/XSS%20Playground%20by%20zseano.md)).
 
 ---
 
